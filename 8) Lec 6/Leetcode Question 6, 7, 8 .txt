@@ -1,0 +1,3 @@
+Question 6: https://leetcode.com/problems/reverse-integer/
+Question 7: https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1
+Question 8: https://leetcode.com/problems/convert-the-temperature/
